@@ -12,7 +12,7 @@
     <p>Le mot à deviner compte 9        lettres&nbsp;: *********</p>
 </div>
 <div>
-    <img src="images/pendu1.gif"
+    <img src="../images/pendu1.gif"
          alt="">
 </div>
 <div>
